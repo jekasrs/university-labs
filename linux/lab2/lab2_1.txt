@@ -1,1 +1,0 @@
-egrep -hoi "(^|\s|\t|:|\()[a-z]+([-_\.]?[a-z0-9])*@[a-z0-9]+([-_\.]?[a-z0-9])* \.[a-z]{2,10}+($|\s|\t|\))" '{}' \; "emails.txt" | egrep -oi "[a-z].+[a-z]" | t r 'AZ' 'az' | sort -u > allemails.lst
