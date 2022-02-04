@@ -1,0 +1,5 @@
+﻿  Sorts.cpp
+C:\Users\evgen\Desktop\Sorts\Sorts\Sorts.cpp(187,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\evgen\Desktop\Sorts\Sorts\Sorts.cpp(211,29): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\evgen\Desktop\Sorts\Sorts\Sorts.cpp(214,29): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Sorts.vcxproj -> C:\Users\evgen\Desktop\Sorts\Debug\Sorts.exe
