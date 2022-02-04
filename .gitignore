@@ -1,5 +1,10 @@
 # Prerequisites
 *.d
+#Trash 
+*.sln
+*.vs/*
+*.ilk
+*.pdb
 *.DS_Store
 
 # Compiled Object files
