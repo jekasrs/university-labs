@@ -4,6 +4,7 @@
 #Trash 
 *.sln
 /Debug/**.*.* 
+/.vs/**.*.*
 *.ilk
 *.pdb
 *.DS_Store
