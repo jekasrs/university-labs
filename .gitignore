@@ -5,6 +5,9 @@
 *.sln
 /Debug/**.*.* 
 /.vs/**.*.*
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
 *.ilk
 *.pdb
 *.DS_Store
