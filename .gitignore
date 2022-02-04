@@ -1,8 +1,9 @@
 # Prerequisites
 *.d
+
 #Trash 
 *.sln
-*.vs/*
+/Debug/**.*.* 
 *.ilk
 *.pdb
 *.DS_Store
